@@ -1,2 +1,2 @@
 # ftp-sync
-interactions with FTP
+Set of utilities, which allow user to interact with remote FTP-server
